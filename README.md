@@ -1,7 +1,7 @@
 # 🌊🌱🔥 WEF-Game (Water, Earth, Fire)
 
 > **Trabajo Práctico Integrador**  
-> **Asignatura:** Programación Orientada a Objetos  
+> **Asignatura:** Paradigmas de la Programación  
 > **Carrera:** Ingeniería en Sistemas de Información  
 > **Institución:** Universidad Adventista del Plata (UAP)  
 > **Fecha límite de entrega:** 28/09/2026  
